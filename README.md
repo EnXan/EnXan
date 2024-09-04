@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a web based computer configurator which is AI-empowered.<br>🤝🏽 Open for collaborations for the current project (send mail to mail@unlockthepower.de)<br>🌱 Recently mastering Next.JS and diving into LLM<br>🧑🏽‍🎓 Enrolled student in Applied Computer Science at HTW Berlin in 3rd semester
+🔭 I'm currently working on a web based computer configurator which is AI-empowered.<br>🤝🏽 Open for collaborations for the current project (send mail to mail@unlockthepower.de)<br>🌱 Recently mastering Next.JS and diving into LLM<br>🧑🏽‍🎓 Enrolled student in Applied Computer Science at HTW Berlin in 3rd semester <br> ⚡Love to build computer
 
 
 ## 🌐 Socials:
