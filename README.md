@@ -2,7 +2,7 @@
 🔭 I'm currently working on a web based computer configurator which is AI-empowered.<br>🤝🏽 Open for collaborations for the current project (send mail to mail@unlockthepower.de)<br>🌱 Recently mastering Next.JS and diving into LLM<br>🧑🏽‍🎓 Enrolled student in Applied Computer Science at HTW Berlin in 3rd semester <br> ⚡ Love to build computer
 
 # ✅ Finished Websites:
-[![DJ-Musicland-Service](https://drive.google.com/file/d/1mjrakFcBamlq_d3P3JJaOFmI6sz0tySK/view?usp=sharing)]
+[![DJ-Musicland-Service](https://eniansbucket.s3.eu-north-1.amazonaws.com/dj-badge.svg)]
 (https://musicland-dj-service.de/)
 
 ## 🌐 Socials:
