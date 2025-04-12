@@ -1,8 +1,9 @@
 # 💫 About Me:
-🔭 I'm currently working on a web based computer configurator which is AI-empowered.<br>🤝🏽 Open for collaborations for the current project (send mail to mail@unlockthepower.de)<br>🌱 Recently mastering Next.JS and diving into LLM<br>🧑🏽‍🎓 Enrolled student in Applied Computer Science at HTW Berlin in 3rd semester <br> ⚡ Love to build computer
+🔭 I'm currently working on a web based computer configurator which is AI-empowered.<br>🤝🏽 Open for collaborations for the current project (send mail to mail@unlockthepower.de)<br>🌱 Recently mastering Next.JS and diving into LLM<br>🧑🏽‍🎓 Enrolled student in Applied Computer Science at HTW Berlin in 4rd semester <br> ⚡ Love to build computer
 
 # ✅ Finished Websites:
 🎖 https://musicland-dj-service.de/
+🎖 https://gustavwein.de/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enian-gashi-b78868299) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27366679) 
