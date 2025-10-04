@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a web based computer configurator which is AI-empowered.<br>🤝🏽 Open for collaborations for the current project (send mail to mail@unlockthepower.de)<br>🌱 Recently mastering Next.JS and diving into LLM<br>🧑🏽‍🎓 Enrolled student in Applied Computer Science at HTW Berlin in 4rd semester <br> ⚡ Love to build computer
+🔭 I'm currently working on a immo scraper for Berlin.<br>🤝🏽 Open for collaborations for the current project<br>🌱 Recently diving into LLM Security<br>🧑🏽‍🎓 Enrolled student in Applied Computer Science at HTW Berlin in 4rd semester <br> 🟧 Working for Scout24 as Security Engineer <br> ⚡ Love to build computer
 
 # ✅ Finished Websites:
 🎖 https://musicland-dj-service.de/
