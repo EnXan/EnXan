@@ -1,5 +1,5 @@
 # 💫 About Me:
-🟧 Working for Scout24 as Security Analyst with strong engineering focus <br> Always curious to try and learn new things <br> Currently working on detecting visual indirect prompt injections
+🟧 Working for Scout24 as Security Analyst with strong engineering focus <br> 📚 Always curious to try and learn new things <br> 👀 Currently working on detecting visual indirect prompt injections
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enian-gashi-b78868299) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27366679) 
